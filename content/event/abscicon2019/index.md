@@ -35,7 +35,12 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-06-01T00:00:00Z"
 
-authors: [ Caitlin Casar, Magdalena Osburn, Theodore Flynn, Andrew Masterson, Brittany Kruger]
+authors: 
+- caitlin 
+- maggie 
+- ted
+- andy
+- brittany
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -55,6 +55,11 @@ hero_media = ""
   .hero-lead {
     max-width: 100%;
   }
+  
+  .home-section:first-of-type {
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
 </style>
 
 

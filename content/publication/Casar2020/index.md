@@ -2,10 +2,12 @@
 title: "Mineral‐hosted biofilm communities in the continental deep subsurface, Deep Mine Microbial Observatory, SD, USA"
 authors:
 - caitlin
+- brittany
+- ted
+- andy
+- lily
 - maggie
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+author_notes: ''
 date: "2020-02-01T00:00:00Z"
 doi: "10.1111/gbi.12391"
 

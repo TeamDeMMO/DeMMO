@@ -32,7 +32,7 @@ social:
   icon_pack: fab
   link: https://github.com/mrosburn
 superuser: true
-user_groups: ["Principal Investigators"]
+user_groups: ["Researchers"]
 title: Dr. Maggie Osburn
 ---
 

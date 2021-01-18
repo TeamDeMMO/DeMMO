@@ -1,11 +1,12 @@
 ---
 title: "Establishment of the Deep Mine Microbial Observatory (DeMMO), South Dakota, USA, a Geochemically Stable Portal Into the Deep Subsurface"
 authors:
-- caitlin
 - maggie
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- brittany
+- andy
+- caitlin
+- jan
+author_notes: ''
 date: "2019-07-01T00:00:00Z"
 doi: "10.1111/gbi.12391"
 

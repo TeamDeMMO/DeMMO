@@ -18,23 +18,20 @@ interests:
 organizations:
 - name: University of Southern California
   url: https://www.usc.edu
-role: Molecular and Computational Biology PhD student in El-Naggar Lab
+role: PI El-Naggar Lab
 social:
 - icon: globe
   icon_pack: fas
-  link: http://www.elnaggarlab.org/people/2019/9/10/karla-abuyen
+  link: http://www.elnaggarlab.org/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/abuyen_ko
+  link: https://twitter.com/BioPhysicalMoh
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=z_PODbQAAAAJ&hl
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/karla-abuyen-a97423a9/
+  link: https://scholar.google.co.uk/citations?user=LPCqNC0AAAAJ&hl
 
 superuser: false
 user_groups: ["Researchers"]
-title: Karla Abuyen 
+title: Dr. Moh El-Naggar
 ---
 

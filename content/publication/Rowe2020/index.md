@@ -1,11 +1,15 @@
 ---
 title: "Electrochemical evidence for in situ microbial activity at the Deep Mine Microbial Observatory (DeMMO), South Dakota, USA"
 authors:
+- annie
+- karla
+- bonita
+- brittany
 - caitlin
 - maggie
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- moh
+- jan
+author_notes: ''
 date: "2020-11-14T00:00:00Z"
 doi: "10.1111/gbi.12391"
 

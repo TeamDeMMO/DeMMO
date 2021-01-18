@@ -53,7 +53,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/deepsubsurfer
+  url: https://twitter.com/profmaggie
 url_code: ""
 url_pdf: ""
 url_slides: ""

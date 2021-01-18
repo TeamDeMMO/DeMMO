@@ -1,8 +1,9 @@
 ---
 title: DeMMO Biofilms
-summary: Exploring rock-hosted life at DeMMO.
+summary: 
 tags:
 - biofilms
+- culturing
 date: "2018-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

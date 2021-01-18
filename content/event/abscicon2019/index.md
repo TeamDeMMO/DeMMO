@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: 
 abstract: "**Introduction:** The potential for liquid water in the subsurface of Mars supports the possibility of an active deep subsurface biosphere. Given that the majority of prokaryotic life on Earth may exist in deep subsurface biofilms (Flemming and Wuertz, 2019), it is critical to understand the ecology of these communities to inform the search for life on Mars. 
 <br><br>
 Minerals are likely an important energy source for the deep continental biosphere in which oxygen and organic carbon are limited. However, microbe-mineral interactions in these environments are not well understood in part due to sampling challenges. The Deep Mine Microbial Observatory (DeMMO) in Lead, South Dakota, offers a unique portal to the deep biosphere, providing access to fracture fluids that host microbial life to a depth of 4,850 ft (1478 m) (Osburn et al. 2017). This iron-rich Mars analog system consists of a diversity of minerals that may support microbial metabolisms. Biofilm formation on fracture surfaces may facilitate these  metabolisms by allowing close contact between cells and minerals that is often required by microbes for extracellular electron transport (EET) (Shi et al. 2016). Here, we describe in situ cultivation experiments with minerals targeting mineral-hosted deep subsurface biofilm communities. 
@@ -60,7 +60,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -34,7 +34,7 @@ social:
   link: https://github.com/caitlincasar
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/caitlincasar
+  link: https://www.linkedin.com/in/caitlincasar/
 
 superuser: true
 user_groups: ["Researchers"]
